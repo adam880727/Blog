@@ -700,9 +700,7 @@ hr{
 .main3{
     margin-top:40px;
 }
-.main3 .col-xs-9 a{
-    font-size: 15px;    
-}
+
 .main3 .col-xs-9 a:hover{
     color:#ff4f53;
 }
